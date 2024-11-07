@@ -1,10 +1,18 @@
 # test_folder_du
-test folder for bootcamp
+Test Folder for Bootcamp
 
 I made changes :o
+
 aaaand anotha one
 
-changed from github hmm
+Just changed from github hmm
 
+Nik branch merged and deleted
 
-nik branch changed
+More practice changes made
+
+...and smore
+
+#Test Fixes Made
+
+One last practice merge woth branches
